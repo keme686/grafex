@@ -1,0 +1,7 @@
+.settings
+.project
+target
+bin
+.classpath
+.class
+lib/openie-assembly-4.1.4-SNAPSHOT.jar
